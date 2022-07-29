@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #363958;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+}
+h1 span{
+    color: #FA804C;
+}
+h2{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+    font-weight: 600;
+}
+h5{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+h3{
+    color: #FA804C;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+header{
+    background-color: #FFF9F4;
+}
+.btn{
+    background-color: #3D4FF3;
+    color: #fff;
+}
+.nav-link{
+    font-weight: 500;
+}
+.navbar-toggler-icon{
+    background: url(../icons/nav-icon.png) no-repeat center;
+}
